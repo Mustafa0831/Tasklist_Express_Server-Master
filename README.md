@@ -18,7 +18,7 @@
 
 ![Capture1](https://user-images.githubusercontent.com/13253931/61718062-df89cf00-ad6a-11e9-81cd-3f13db4b7774.PNG)
 
-> <a href="https://github.com/lilianabulgaru3pg/TodoListApp"> Client site repository! </a>
+> <a href="https://github.com/Mustafa0831/TaskList_VanillaJS"> Client site repository! </a>
 
 ## Install
 
@@ -42,11 +42,11 @@ yarn test
 
 👤 **Liliana Bulgaru**
 
-* Github: [@lilianabulgaru3pg](https://github.com/lilianabulgaru3pg)
+* Github: [@Mustafa0831](https://github.com/Mustafa0831)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/lilianabulgaru3pg/TodoListExpressServer/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Mustafa0831/TaskList_VanillaJS/issues).
 
 ## Show your support
 

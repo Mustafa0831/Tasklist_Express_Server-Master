@@ -40,7 +40,7 @@ yarn test
 
 ## Author
 
-👤 **Liliana Bulgaru**
+👤 **Ustaz Mustafa**
 
 * Github: [@Mustafa0831](https://github.com/Mustafa0831)
 
